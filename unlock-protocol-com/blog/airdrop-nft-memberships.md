@@ -3,7 +3,7 @@ title: Airdrop for NFT Memberships
 subTitle: How to easily grant access to token-gated communities
 authorName: Julien Genestoux
 publishDate: January 11, 2022
-description: Creators have multiple options to airdrop memberships to their fans so they can become members have receive the NFT in their wallets
+description: Creators have multiple options to airdrop memberships to their fans so they can become members and receive the NFT in their wallets
 image: /images/blog/airdrop-nft-memberships/dashboard.gif
 ---
 
@@ -25,7 +25,7 @@ Once you've deployed your lock, head to the members page.
 
 ![Dashboard](/images/blog/airdrop-nft-memberships/dashboard.png)
 
-On that page you will see the list of all the members on your lock. You can also see a button that lets you airdrop NFT: click on it!
+On that page you will see the list of all the members on your lock. You can also see a button that lets you airdrop an NFT: click on it!
 
 ![Members Page](/images/blog/airdrop-nft-memberships/members-page.png)
 
